@@ -21,7 +21,7 @@ It performs basic **CRUD operations** and stores book data **in memory** — no 
 ## 🧪 How to Run the Project
 
 1. **Clone this repository**:
-   git clone https://github.com/your-username/book-api.git
+   git clone https://github.com/DONDAPATI-THEERDHA-PURUSHOTHAM/Book-API.git
    cd book-api
 Install dependencies:
 npm install
